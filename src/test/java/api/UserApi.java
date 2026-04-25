@@ -1,5 +1,4 @@
 package api;
-
 import static io.restassured.RestAssured.given;
 
 public class UserApi {

@@ -1,5 +1,4 @@
 package tests;
-
 import api.UserApi;
 import org.junit.After;
 import org.junit.Assert;
