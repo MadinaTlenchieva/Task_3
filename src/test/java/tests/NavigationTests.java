@@ -1,4 +1,5 @@
 package tests;
+
 import org.junit.Test;
 import org.junit.Before;
 import pages.LoginPage;

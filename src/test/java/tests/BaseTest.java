@@ -1,4 +1,5 @@
 package tests;
+
 import driver.WebDriverFactory;
 import org.junit.After;
 import org.junit.Before;
